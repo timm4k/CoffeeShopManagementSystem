@@ -1,0 +1,24 @@
+DrinkName,Size,Price,Availability
+Latte,Small,75.00,30
+Latte,Medium,85.00,25
+Latte,Large,95.00,25
+Latte,Extra Large,105.00,20
+Espresso,Single,50.00,25
+Espresso,Double,70.00,30
+Matcha Latte,Medium,95.00,15
+Matcha Latte,Large,110.00,10
+Cappuccino,Small,80.00,20
+Cappuccino,Medium,90.00,25
+Cappuccino,Large,105.00,20
+Soy Latte,Medium,85.00,25
+Soy Latte,Large,95.00,15
+Almond Latte,Medium,90.00,10
+Almond Latte,Large,100.00,15
+Caramel Macchiato,Small,85.00,30
+Caramel Macchiato,Medium,95.00,25
+Caramel Macchiato,Large,105.00,20
+Iced Latte,Medium,90.00,15
+Iced Latte,Large,100.00,35
+Iced Coffee,Medium,60.00,30
+Iced Coffee,Large,75.00,25
+Free Coffee For Students,Medium,0.00,10

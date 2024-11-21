@@ -1,0 +1,6 @@
+BaristaName,ShiftNumber,CompletedOrders
+Martin,1,20
+Melinda,2,30
+Zoli,1,25
+Lara,3,18
+David,2,22

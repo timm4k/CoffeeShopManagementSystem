@@ -1,0 +1,6 @@
+OrderId,CustomerName,OrderedDrink,AssignedBarista,Status
+1,Martin,Latte,0,In Progress
+2,Melinda,Cappuccino,1,Completed
+3,Zoli,Espresso,2,In Progress
+4,Lara,Mocha,1,Completed
+5,David,Americano,0,In Progress

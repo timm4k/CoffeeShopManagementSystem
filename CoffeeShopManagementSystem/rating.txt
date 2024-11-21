@@ -1,0 +1,6 @@
+BaristaName,Rating,Status
+Martin,4.5,Active
+Melinda,3.8,Active
+Zoli,4.2,Inactive
+Lara,4.7,Active
+David,3.9,Inactive
